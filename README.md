@@ -1,5 +1,3 @@
-Here’s your finalized "About" section, formatted for clarity and professionalism:
-
 ---
 
 ### Hi there! 👋 I'm Sundar  
